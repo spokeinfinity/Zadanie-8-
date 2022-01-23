@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PB/Semestr V/Mobilne/PS/SensorApp/app/src/main/res/drawable-anydpi/ic_isSensor.xml" value="0.2564814814814815" />
+        <entry key="..\:/PB/Semestr V/Mobilne/PS/SensorApp/app/src/main/res/layout/activity_sensor_details.xml" value="0.11094224924012158" />
+        <entry key="..\:/PB/Semestr V/Mobilne/PS/SensorApp/app/src/main/res/layout/sensor_activity.xml" value="0.1947821681864235" />
+        <entry key="..\:/PB/Semestr V/Mobilne/PS/SensorApp/app/src/main/res/layout/sensor_list.xml" value="0.11094224924012158" />
+        <entry key="..\:/PB/Semestr V/Mobilne/PS/SensorApp/app/src/main/res/layout/sensor_list_item.xml" value="0.21603260869565216" />
+        <entry key="..\:/PB/Semestr V/Mobilne/PS/SensorApp/app/src/main/res/menu/fragment_sensor_menu.xml" value="0.14074074074074075" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

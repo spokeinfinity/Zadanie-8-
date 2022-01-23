@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/list_item_sensor"
+    >
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="@dimen/sensor_item_list_imageview_layout_width"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_issensor"
+        tools:srcCompat="@drawable/ic_issensor"
+        android:layout_marginTop="@dimen/sensor_item_list_side_margin"
+        android:layout_marginBottom="@dimen/sensor_item_list_side_margin"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sensor_name"
+        android:layout_marginTop="@dimen/sensor_item_list_side_margin"
+        android:layout_marginBottom="@dimen/sensor_item_list_side_margin"/>
+
+    <TextView
+        android:layout_marginTop="@dimen/sensor_item_list_side_margin"
+        android:layout_marginBottom="@dimen/sensor_item_list_side_margin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/sensor_item_list_left_margin"
+        android:id="@+id/sensor_type"/>
+
+</LinearLayout>
